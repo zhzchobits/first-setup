@@ -41,6 +41,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         imageView2.setOnClickListener(this);
         imageView3.setOnClickListener(this);
         imageView4.setOnClickListener(this);
+        111£»
         relativeLayout.setOnClickListener(this);
     }
     public void onClick(View v) {

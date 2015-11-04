@@ -1,0 +1,9 @@
+diff a/app/src/main/java/com/example/administrator/myapplication/MainActivity.java b/app/src/main/java/com/example/administrator/myapplication/MainActivity.java	(rejected hunks)
+@@ -41,6 +41,7 @@
+         imageView2.setOnClickListener(this);
+         imageView3.setOnClickListener(this);
+         imageView4.setOnClickListener(this);
++ʱ��Ļ�����
+         relativeLayout.setOnClickListener(this);
+     }
+     public void onClick(View v) {
