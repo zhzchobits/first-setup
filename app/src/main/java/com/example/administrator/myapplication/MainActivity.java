@@ -1,5 +1,6 @@
-﻿package com.example.administrator.myapplication;
+package com.example.administrator.myapplication;
 
+import android.app.Activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -15,6 +16,9 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
+import com.example.administrator.myapplication.GrActivity;
+import com.example.administrator.myapplication.R;
 
 import java.io.FileOutputStream;
 
